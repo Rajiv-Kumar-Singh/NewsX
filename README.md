@@ -7,7 +7,7 @@ NewsX is a website which shows latest news of different fields such as Business,
 This website is build using React.js and Bootstrap.
 For fetching latest news i have used NewsAPI.
 
-Below images shows few pages of the website.
+### Below images shows few pages of the website.
 
 ## Business Page
 
