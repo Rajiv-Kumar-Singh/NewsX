@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # NewsX - Read Latest News
 
 NewsX is a website which shows latest news of different fields such as Business, Health, Science, Sports e.t.c.
